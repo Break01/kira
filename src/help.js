@@ -1,11 +1,11 @@
 const help = (prefix) => {
 	return `
 <══════════════════════>
-      *LEIAKBOT*
+      *ķīřąBot*
  <══════════════════════>
 
 __█████████  ● ᏴϴͲ●ᎷᎬΝႮ●         
-__█▄█████▄█   *DONO*    : GABRIEL & DANIEL
+__█▄█████▄█   *DONO*    : ķīřą
 __█▼▼▼▼▼█ 
 _██ᏴϴͲ Ꮩ3.8██▌ 
 __█▲▲▲▲▲█ 
@@ -15,8 +15,8 @@ ____██_____██
 ┌─────────❶.❷────────
 ║〘 INFORMAÇÕES 〙
 ║
-╠🐉 *LEIAKBOT*
-╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃗GABRIEL E DANIEL(base escura)
+╠🐉 *ķīřąBot*
+╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃗ ķīřą(base escura)
 ╠🐉 *wa.me/+5598984527526*
 ╠🐉 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
@@ -226,7 +226,7 @@ ____██_____██
 ║🐊 *gemidao*
 ║🐊 *musica*
 ║
-╠══🐰〘 CAUSS NO CONTROLE 〙🐰══
+╠══🐰〘 CRIADORES NO CONTROLE 〙🐰══
 ║
 ║ *NOME: GABRIEL E DANIEL*
 ║ *INSTA: _offgabriel_*
@@ -235,9 +235,9 @@ ____██_____██
 ║
 ║  *"base do lindo (DARK BOT 4.0)🐊🚩*
 ║  *"kiba não xereka"*
-║  *Número do dark: wa.me/+5522996215481
+║  *Número do dark: wa.me/+559884527526
 ║
-╚═〘 LEIAKBOT 〙`
+╚═〘 ķīřąBot 〙`
 }
 
 exports.help = help
